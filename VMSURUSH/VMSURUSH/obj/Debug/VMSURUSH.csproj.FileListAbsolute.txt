@@ -1,0 +1,14 @@
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\bin\Debug\VMSURUSH.exe.config
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\VMSURUSH.csprojResolveAssemblyReference.cache
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\MainWindow.g.cs
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\App.g.cs
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\VMSURUSH_MarkupCompile.cache
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\VMSURUSH_MarkupCompile.lref
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\bin\Debug\VMSURUSH.exe
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\bin\Debug\VMSURUSH.pdb
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\MainWindow.baml
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\VMSURUSH.g.resources
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\VMSURUSH.Properties.Resources.resources
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\VMSURUSH.csproj.GenerateResource.Cache
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\VMSURUSH.exe
+D:\My problems\НИУ ВШЭ - С#\стратер\Давлатзода_Суруш_Курсовая\HW1\VMSURUSH\VMSURUSH\obj\Debug\VMSURUSH.pdb
